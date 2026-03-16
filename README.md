@@ -24,4 +24,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-<img align="right" src="https://media1.tenor.com/m/l6r8uvSFY1cAAAAC/singing-listening.gif" width="120"/>
+<img align="right" src="https://i.pinimg.com/originals/72/b1/e0/72b1e09339ac99ce234b3ac9cdcccaa9.gif" width="700"/>
