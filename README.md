@@ -1,4 +1,4 @@
-# gabstlg
+# Quem eu sou?
 
 Este repositório agora funciona como uma apresentação curta sobre quem eu sou, como estou construindo meu GitHub e qual direção quero dar aos meus projetos.
 
