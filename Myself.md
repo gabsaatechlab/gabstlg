@@ -1,27 +1,30 @@
-## Olá! Bem-vindo(a) ao meu perfil!
+# Gabriel Belarmino Martins
 
-- 📌 Meu nome é Gabriel Belarmino Martins
-- 🎓 Concluí o ensino médio na Escola Técnica Estadual Doutor Júlio Cardoso
-- 💡 Atualmente graduando na Uni-FACEF (Franca, São Paulo)
-- 📚 Em constante aprendizado!
+Sou estudante em formação e tenho usado o GitHub como espaço para organizar minha evolução técnica de forma pública, clara e profissional.
 
----
+## Apresentação
 
-### Minhas Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsaatechlab&theme=shadow_red&show_icons=true)
+Concluí o ensino médio na Escola Técnica Estadual Doutor Júlio Cardoso e atualmente sigo em formação na Uni-FACEF, em Franca, São Paulo. Tenho interesse em desenvolvimento web, lógica de programação e construção de projetos que mostrem prática real, não apenas teoria.
 
-### Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsaatechlab&layout=compact&theme=shadow_red)
+## Como venho construindo meu perfil
 
----
+Meu objetivo com os repositórios é transformar atividades acadêmicas, exercícios e projetos em uma vitrine técnica mais séria. Em vez de deixar códigos soltos, procuro organizar melhor cada entrega, documentar o contexto e mostrar continuidade de aprendizado.
 
-### Skills
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## Áreas que estou desenvolvendo
 
----
-<img align="right" src="https://i.pinimg.com/originals/72/b1/e0/72b1e09339ac99ce234b3ac9cdcccaa9.gif" width="700"/>
+- HTML e CSS para estrutura e apresentação de interfaces
+- JavaScript para interação e lógica no navegador
+- Portugol para fortalecimento da base algorítmica
+- Git e GitHub para versionamento, publicação e organização de portfólio
+
+## O que você encontra no meu GitHub
+
+- projetos web acadêmicos apresentados de forma mais profissional
+- trilhas de exercícios em lógica de programação
+- repositórios em evolução contínua, com melhorias visuais e estruturais
+
+## Links importantes
+
+- GitHub principal: [@gabsaatechlab](https://github.com/gabsaatechlab)
+- Portfólio em destaque: [trote-solidario-2026](https://github.com/gabsaatechlab/trote-solidario-2026)
+- E-mail: [gabrielmartins160108@gmail.com](mailto:gabrielmartins160108@gmail.com)
