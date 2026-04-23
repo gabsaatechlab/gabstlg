@@ -25,6 +25,6 @@ Meu objetivo com os repositórios é transformar atividades acadêmicas, exercí
 
 ## Links importantes
 
-- GitHub principal: [@gabsaatechlab](https://github.com/gabsaatechlab)
+- GitHub principal: [@belarminoccomp](https://github.com/belarminoccomp)
 - Portfólio em destaque: [trote-solidario-2026](https://github.com/gabsaatechlab/trote-solidario-2026)
 - E-mail: [gabrielmartins160108@gmail.com](mailto:gabrielmartins160108@gmail.com)
